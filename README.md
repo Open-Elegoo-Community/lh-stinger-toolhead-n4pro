@@ -32,6 +32,9 @@ I wanted to have fun.
 - This remix has a mount for the BTT Eddy. A future version will have this option.
 - You may need a spacer between the hotend and the ceiling of the toolframe. You can scale this as needed.
 
+![image](https://github.com/user-attachments/assets/db6985c7-599f-45de-b53d-dc6d439af144)
+
+
 
 ![image](https://github.com/user-attachments/assets/9704b184-1d2c-4b4f-90d6-eaa32c4c8c34)
 
