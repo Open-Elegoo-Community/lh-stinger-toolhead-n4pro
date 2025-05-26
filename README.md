@@ -14,7 +14,9 @@ You will have the freedom to choose which parts you want to use.
 No, I am not going to walk you through the build process. [LH has already done that](https://github.com/lhndo/LH-Stinger/wiki/Toolhead).
 
 ## Why is this even necessary?
-It's not. The Elegoo toolhead with Lamarc's and Frosted's fan modifications work just fine. I would suggest to save your money on other mods.
+It's not. 
+
+The Elegoo toolhead with Lamarc's and Frosted's fan modifications work just fine. I would suggest to save your money on other mods.
 
 - https://www.printables.com/model/905447-sf-3x5015-neptune-4-fan-mod-shroud-optimized-enhan
 - https://www.printables.com/model/841048-neptune-4proplusmax-fanmod-by-layershifted
