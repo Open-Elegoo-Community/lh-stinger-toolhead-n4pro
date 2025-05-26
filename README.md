@@ -31,7 +31,7 @@ I wanted to have fun.
 ## What to expect with this remix
 - This uses LDO Orbitor v2.5 (same plate as v2.0) extruder. If you want to use the sherpa, or some other you will need to remix from the LH repo and copy the bolt pattern over. 
 - You will need to use a riser between the toolhead frame and the extruder. This is to make it over the rail and the wheels.
-- This remix has a mount for the BTT Eddy. A future version will have this option.
+- This remix has a mount for the BTT Eddy. A future version will have this as optional.
 - You may need a spacer between the hotend and the ceiling of the toolframe. You can scale this as needed.
 
 ![image](https://github.com/user-attachments/assets/db6985c7-599f-45de-b53d-dc6d439af144)
