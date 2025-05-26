@@ -25,3 +25,7 @@ I wanted a filament cutter after the extruder. This is not possible with the sto
 I like to tinker.
 
 I wanted to have fun.
+
+
+![image](https://github.com/user-attachments/assets/9704b184-1d2c-4b4f-90d6-eaa32c4c8c34)
+
